@@ -1,9 +1,16 @@
-#box {
+.box {
+    display: inline-block;
     background-color: #3A4042;
     width: 800px;
     box-shadow: 10px 10px 0 #000;
     margin-bottom: 20px;
     text-align: center;
     align-items: center;
-    padding: 42px 0;
+    padding: 42px 42px ;
+    margin-top: 116px;
+    margin-left: 91px;
+}
+
+.box h1{
+    margin-bottom: 28px;
 }
