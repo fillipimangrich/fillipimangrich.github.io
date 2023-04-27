@@ -4,6 +4,15 @@
     background-color: #3A4042;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #4C5B84;
+    border-bottom: 10px solid #000;
     margin: 0px;
+}
+
+.section .main_title{
+    margin-bottom: 65px;
+}
+
+.section.-bgblack{
+    background-color: #7C5E99;
+    border-bottom: 10px solid #000;
 }
